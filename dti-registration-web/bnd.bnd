@@ -1,0 +1,6 @@
+Bundle-Name: dti-registration-web
+Bundle-SymbolicName: com.al.dti.registration
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.al.dti.registration.constants
+  
